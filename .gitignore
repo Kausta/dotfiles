@@ -1,0 +1,9 @@
+*
+
+!.gitignore
+
+! .config
+! .fehbg
+! .vimrc
+! .Xresources
+! .zshrc
